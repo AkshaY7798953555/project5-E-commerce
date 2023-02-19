@@ -1,0 +1,28 @@
+{
+  "name": "project-5-self",
+  "version": "1.0.0",
+  "description": "creating E - commerce web site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkshaY7798953555/E-Commerse.git"
+  },
+  "author": "akshay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkshaY7798953555/E-Commerse/issues"
+  },
+  "homepage": "https://github.com/AkshaY7798953555/E-Commerse#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1307.0",
+    "bcrypt": "^5.1.0",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.9.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.20"
+  }
+}
